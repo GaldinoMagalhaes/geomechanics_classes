@@ -8,9 +8,9 @@ The materials shared here have been developed to support the undergraduate cours
 - **Part II — Anisotropic Failure Criteria**
 - **Part III — Structure Tensors**
 
-The materials are authored by the Geomechanics & Rock Mass Modeling research group and can be used for educational purposes, provided they are properly referenced. For suggestions, corrections, or general contact, please use the email [gabrielgaldinodm@gmail.com](mailto:gabrielgaldinodm@gmail.com). 
+The material is authored by the Geomechanics & Rock Mass Modeling research group and can be used for educational purposes, if properly referenced. For suggestions, corrections, or general contact, please use the email [gabrielgaldinodm@gmail.com](mailto:gabrielgaldinodm@gmail.com). 
 
-All shared content is referenced, and we highly recommend that it always be used in conjunction with the literature, as the primary focus of the material is conceptual review combined with programming exercises.
+All shared content is referenced, and we highly recommend using it along the provided literature, as the material's primary focus is a conceptual review combined with programming exercises.
 
 ## Accessing the Notebooks
 
@@ -28,9 +28,9 @@ C) Install Pluto by typing:
 ```julia
 add Pluto
 ```
-D) Run Pluto by typing:
+D) Click `Ctrl+C` to exit pkg, and run Pluto by typing:
 ```julia
 import Pluto
 Pluto.run()
 ```
-E) Input the notebooks path and click open.
+E) Input the notebooks' path and click open.
