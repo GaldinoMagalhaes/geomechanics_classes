@@ -165,7 +165,7 @@ $(\sigma_1 - \sigma_2)({\color{#F15A22}\sin 2\beta - \mu \cos 2\beta - \mu}) = 2
 
 En travaillant spécifiquement sur le terme mis en évidence dans l’Eq.18. Considérez d’abord l’artifice suivant :
 
-$\cos 2\beta = \frac{\cos \beta}{\sin \beta} \sin 2\beta = \cot \beta \sin 2\beta$
+$\cos 2\beta = \frac{\cos \beta}{\sin 2\beta} \sin 2\beta = \cot \beta \sin 2\beta$
 
 À partir de cela, nous pouvons réorganiser le terme de l’Eq.18 comme suit :
 
